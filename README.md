@@ -69,14 +69,7 @@ git clone [https://github.com/LOKI29yo17/kali-linux-Neovim-config-.git](https://
 
 ---
 
-### 📝 How to Update it on GitHub Right Now
 
-1. On the GitHub page shown in your image, look at the center box where **README.md** is listed.
-2. Click on the **pencil icon (✏️)** on the top right of the README preview box to edit the file directly in your browser.
-3. Replace the existing placeholder text with the English markdown code blocks provided above.
-4. Scroll down to the bottom of the page, add a short commit message (e.g., *“Update README with setup documentation”*), and click the green **Commit changes** button.
-
-```
 
 
 
